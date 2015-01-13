@@ -1,0 +1,4 @@
+The first index is: 1 (5,10,15) (Line: 1 in the input file)
+The second index is: 15 (2,5,8) (Line: 3 in the input file)
+The minimum distance is : 9.11043
+Time to run: 6
